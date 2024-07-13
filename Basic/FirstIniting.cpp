@@ -3,7 +3,7 @@
 
 using namespace DirectX;
 
-// DirectX 초기화 클래스 선언부
+// DirectX Init Class
 class InitDirect3DApp : public D3DApp {
 public:
 	InitDirect3DApp(HINSTANCE hInstance);
